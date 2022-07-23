@@ -10,7 +10,6 @@ import 'package:provider/provider.dart';
 import '../pojjo/appBar.dart';
 class AllPurchasesDetail extends StatefulWidget {
   const AllPurchasesDetail({Key? key}) : super(key: key);
-
   @override
   State<AllPurchasesDetail> createState() => _AllPurchasesDetailState();
 }
